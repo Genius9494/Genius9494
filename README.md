@@ -30,7 +30,7 @@
 ---
 
 ##  About Me   
- About Me <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/91d6dc87526727.5dbac9a968413.gif" width="260">
+ <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/91d6dc87526727.5dbac9a968413.gif" width="260">
 
 🌟 Full-Stack Developer with **5+ years of experience**  
 ⚡ Expert in **React, Next.js, Node.js, MongoDB, REST APIs**  
