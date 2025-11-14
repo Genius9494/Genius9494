@@ -19,7 +19,7 @@
   </a>
 
   <a href="https://www.linkedin.com/in/osama-al-shoubi-56514a368" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=108812&format=gif" width="42" title="LinkedIn"/>
+    <img src="https://miro.medium.com/1*0zvZuqg6M2GEBVwH3IzKqA.gif" width="42" title="LinkedIn"/>
   </a>
 
   <a href="https://x.com/osamaL274720" target="_blank">
