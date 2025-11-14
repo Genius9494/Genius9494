@@ -69,7 +69,6 @@ Git • GitHub • VS Code • Postman • Figma
 - ⚙️ REST APIs with Node.js & Express  
 - 💾 Complete MERN stack workflows  
 
-> *(أرسل لي روابط مشاريعك وسأضيفها هنا بشكل احترافي)*
 
 ---
 
