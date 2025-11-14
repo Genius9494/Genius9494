@@ -39,7 +39,7 @@ Frontend
 Backend
 
 <a><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a><img style="background:red; " align="left" alt="Express" height ="42px" src="https://www.softude.com/wp-content/uploads/36.webp"></a>
+<a><img align="left" alt="Express" height ="42px" src="https://media.licdn.com/dms/image/v2/D4D12AQFutpP9wVAeIg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1718341193276?e=2147483647&v=beta&t=em32ZEf75gBr8vAQNo5G4jFIyqZqS3Iwtv3790z0-rA"></a>
 <a><img align="left" alt="MongoDB" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></a>
 
 <br/><br/>
