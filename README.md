@@ -15,7 +15,7 @@
 
 <p align="left">
   <a href="https://github.com/Genius9494" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=106562&format=gif" width="42" title="GitHub"/>
+    <img src="https://media.lordicon.com/icons/wired/flat/2572-logo-github.gif" width="42" title="GitHub"/>
   </a>
 
   <a href="https://www.linkedin.com/in/osama-al-shoubi-56514a368" target="_blank">
