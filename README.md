@@ -23,7 +23,7 @@
   </a>
 
   <a href="https://x.com/osamaL274720" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=FLrPxFCTBY7A&format=gif" width="42" title="Twitter / X"/>
+    <img src="https://techcrunch.com/wp-content/uploads/2014/06/twitter-rise.gif" width="42" title="Twitter / X"/>
   </a>
 </p>
 
