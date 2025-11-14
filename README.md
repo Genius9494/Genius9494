@@ -1,52 +1,93 @@
-👋 Hey, I'm Osama Al-Shoubi
+<h1 align="center">Hey, I'm Osama Al-Shoubi 👋</h1>
 
-<a href="#"><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href="#"><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
+<p align="center">
+  <img src="https://media.tenor.com/C9qukZqPPS4AAAAM/coding-typing.gif" width="250"/>
+</p>
 
-<br/><br/>
+<p align="center">
+  <strong>Full-Stack Developer | Next.js & React | Node.js | TailwindCSS</strong>
+  <br/>
+  Building fast, modern and scalable web experiences.
+</p>
 
-I’m a Full-Stack Developer specialized in building modern web applications using
-React, Next.js, Tailwind CSS, Node.js, Express.js, and MongoDB.
-I love creating clean, fast, scalable apps and bringing ideas to life with smooth UI/UX.
+---
 
-<br/> <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-🧠 More About Me
+### 🌐 Connect with me
 
-🚀 Currently working on: Full-Stack side projects with Next.js
+<p>
+  <a class="icon" href="https://github.com/Genius9494" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30"/>
+  </a>
 
-🤝 Open to collaboration on open-source web applications
+  <a class="icon" href="https://www.linkedin.com/in/osama-al-shoubi-56514a368" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" width="30"/>
+  </a>
 
-📚 Learning more about clean architecture & system design
+  <a class="icon" href="https://x.com/osamaL274720" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" width="30"/>
+  </a>
+</p>
 
-💬 Ask me anything about frontend, backend, performance, MERN stack
+---
 
-📫 Reach me anytime on LinkedIn
+## 🧠 About Me
 
-🧾 Working on improving my dev portfolio
+- 🚀 Full-Stack Developer focused on building modern web apps  
+- ⚡ Skilled in **Next.js, TypeScript, React, Tailwind, Node.js**  
+- 💼 Open to collaborations in Frontend & Full-Stack  
+- 📚 Currently improving my System Design knowledge  
+- 🧩 Love solving real-world problems with clean code  
 
-<br/>
-🔨 Tech Stack (Languages & Tools)
-Frontend
+---
 
-<a><img align="left" alt="JavaScript" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"></a>
-<a><img align="left" alt="TypeScript" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<a><img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a><img align="left" alt="Next.js" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"></a>
-<a><img align="left" alt="Tailwind" height ="42px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></a>
+## 🛠 Tech Stack
 
-<br/><br/>
+### **Frontend**
+React • Next.js • TypeScript • TailwindCSS • Redux • HTML • CSS • JavaScript
 
-Backend
+### **Backend**
+Node.js • Express.js • MongoDB • REST APIs
 
-<a><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a><img align="left" alt="Express" height ="42px" src="https://media.licdn.com/dms/image/v2/D4D12AQFutpP9wVAeIg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1718341193276?e=2147483647&v=beta&t=em32ZEf75gBr8vAQNo5G4jFIyqZqS3Iwtv3790z0-rA"></a>
-<a><img align="left" alt="MongoDB" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></a>
+### **Tools**
+Git • GitHub • VS Code • Postman • Figma
 
-<br/><br/>
+---
 
-Tools
+## 📊 GitHub Stats
 
-<a><img align="left" alt="Git" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"></a>
-<a><img align="left" alt="Figma" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg"></a>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Genius9494&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genius9494&layout=compact&theme=tokyonight" />
+</p>
 
-<br/><br/>
+---
+
+## 🎯 Featured Projects
+
+- 🔥 **Modern Full-Stack Apps with Next.js**  
+- 🎨 Stunning Front-end UI with Tailwind  
+- ⚙️ REST APIs with Node.js & Express  
+- 💾 Complete MERN stack workflows  
+
+> *(أرسل لي روابط مشاريعك وسأضيفها هنا بشكل احترافي)*
+
+---
+
+## ✨ Animated Icons CSS
+
+```html
+<style>
+.icon img {
+  transition: transform 0.25s ease-in-out;
+}
+
+.icon img:hover {
+  transform: scale(1.25) rotate(8deg);
+}
+
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.15); }
+  100% { transform: scale(1); }
+}
+</style>
